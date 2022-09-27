@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106', '️One', true],
-  ['6282195322106', '️Two', true],
-  ['6282195322106', '️Three', true],
-  ['6282195322106', '️Four', true],
-  ['6282195322106', '️Five', true],
-  ['6282195322106', '️Six', true],
-  ['6282195322106', '️Seven', true],
-  ['6282195322106', '️Eight', true],
-  ['6282195322106', '️Nine', true],
-  ['6282195322106', '️Teen', true]
+  ['6285237596750', '️One', true],
+  ['6285237596750', '️Two', true],
+  ['6285237596750', '️Three', true],
+  ['6285237596750', '️Four', true],
+  ['6285237596750', '️Five', true],
+  ['6285237596750', '️Six', true],
+  ['6285237596750', '️Seven', true],
+  ['6285237596750', '️Eight', true],
+  ['6285237596750', '️Nine', true],
+  ['6285237596750', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -89,8 +89,8 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
+global.nomorbot = '628579242914'
+global.nomorown = '6285237596750'
 global.namebot = 'ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
@@ -453,18 +453,18 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
 
 /*Donasi*/
-global.saweria = 'https://saweria.co/wudysoft'
-global.dana = '0887435373103'
-global.pulsa = '082195322106'
-global.trakteer = 'https://trakteer.id/wudysoft'
-global.paypal = 'wudysoft@mail.com'
-global.gopay = '082195322106'
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
-global.psaweria = 'https://saweria.com/Wudysoft'
+global.saweria = '-'
+global.dana = '085792429140'
+global.pulsa = '085792429140'
+global.trakteer = '-'
+global.paypal = '-'
+global.gopay = '085792429140'
+global.pdana = '085792429140'
+global.povo = '085738153140'
+global.pgopay = '085792429140'
+global.ppulsa = '085792429140'
+global.ppulsa2 = '085792429140'
+global.psaweria = '-'
 
 /*Emoji*/
 global.rpg = {
